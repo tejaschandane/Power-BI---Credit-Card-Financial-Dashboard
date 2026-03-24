@@ -8,14 +8,3 @@ Developed an interactive dashboard using transaction and customer data from a SQ
 • Streamlined data processing & analysis to monitor key performance metrics and trends.
 • Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
-Power BI basics for beginners 
-How to use Power BI
-Power Bi project end to end
-how to connect power bi with sql database
-create charts and tables in power bi
-Import data in Power BI 
-Power Query in Power BI 
-dax in power bi 
-power bi dashboard design
-insights from dashboard 
-export power bi dashboard
