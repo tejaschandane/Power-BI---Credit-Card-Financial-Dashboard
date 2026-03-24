@@ -1,6 +1,6 @@
 # Power-BI---Credit-Card-Financial-Dashboard
 
-Project Objective
+Project Objective - 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitorand analyze credit card operations effectively.
 
 Project learning - 
